@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "movie-ratings"
+		},
+		{
+			"path": "movie-list"
+		},
+		{
+			"path": "movie-catalogue"
+		}
+	],
+	"settings": {}
+}
